@@ -1,2 +1,3 @@
 # .readme
-Hura Girdinse nese et
+Bura Girdinse nese et
+Cemiyyete qowulmaqla sen burda oz biliklerini paylasa bilersen
